@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/86054592/137582445-4d173691-b406-49d9-8722-012251faaee4.png)
 
 # 第二題
-## 輸入頭尾，頭尾中間的所有偶數相加（包含頭尾）
+![image](https://user-images.githubusercontent.com/86054592/137744285-a2654049-2ff5-4b11-b4b9-3e0a3b41fb81.png)
 
 # 第三題
 ## 求四分位距
