@@ -5,10 +5,10 @@
 ![image](https://user-images.githubusercontent.com/86054592/137744285-a2654049-2ff5-4b11-b4b9-3e0a3b41fb81.png)
 
 # 第三題
-## 求四分位距
+![image](https://user-images.githubusercontent.com/86054592/138544152-26222ad0-02a0-4d65-b6a1-c67ae506dfa9.png)
 
 # 第四題
-## 頻率最高的五個字母
+![image](https://user-images.githubusercontent.com/86054592/138544649-90ec9fa0-7d6c-42fe-b120-245fb6e6f98b.png)
 
 # 第五題
-## 面積
+![image](https://user-images.githubusercontent.com/86054592/138544854-28cbdf4c-ed93-4ef7-a71e-5c43283c0881.png)
